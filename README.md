@@ -23,5 +23,5 @@ This is a  **Multi-Module Android project starter**, following best practices wi
 ## IMAGEN
 | Start app | Pager Navigate | Navigate to Detalles | Reload Api|
 | --- | --- | --- | --- |
-|<img src="https://github.com/beknurospan/Compose_Marvel/blob/main/images/open.gif" width="160" height="350" />|<img src="https://github.com/beknurospan/Compose_Marvel/blob/main/images/segundo.gif" width="160" height="350" />|<img src="https://github.com/beknurospan/Compose_Marvel/blob/main/images/detalles.gif" width="160" height="350" />|<img src="https://github.com/beknurospan/Compose_Marvel/blob/main/images/reload.gif" width="160" height="350" />|
+|<img src="https://github.com/jorgesanme/Compose_Marvel_Api/blob/main/images/open.gif" width="160" height="350" />|<img src="https://github.com/jorgesanme/Compose_Marvel_Api/blob/main/images/segundo.gif" width="160" height="350" />|<img src="https://github.com/jorgesanme/Compose_Marvel_Api/blob/main/images/detalles.gif" width="160" height="350" />|<img src="https://github.com/jorgesanme/Compose_Marvel_Api/blob/main/images/reload.gif" width="160" height="350" />|
 
