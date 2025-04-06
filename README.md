@@ -11,7 +11,7 @@ This is a  **Multi-Module Android project starter**, following best practices wi
 - MVVM / Clean Architecture
 - Hilt (Dependency Injection)
 - Coroutines / Flow
-- Retrofit + OkHttp
+- Retrofit + OkHttp 
 - Room Database
 - Jetpack Navigation Component
 - Coil / Glide
