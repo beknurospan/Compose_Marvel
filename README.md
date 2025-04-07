@@ -7,7 +7,7 @@ This is a  **Multi-Module Android project starter**, following best practices wi
 ## 🚀 Tech Stack
 
 - Kotlin
-- Jetpack Compose / XML (choose based on module)
+- Jetpack Compose / XML (choose based on module) 
 - MVVM / Clean Architecture
 - Hilt (Dependency Injection)
 - Coroutines / Flow
